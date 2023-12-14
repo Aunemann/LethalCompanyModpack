@@ -1,0 +1,30 @@
+{
+    "name": "That_Modpack",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "I made this for my firends",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2113",
+		"raydenoir-SCP173CoilheadSFX-1.2.0",
+		"anormaltwig-LateCompany-1.0.4",
+		"Cornball_Crew-Valorant_Skins-1.2.0",
+		"bizzlemip-BiggerLobby-2.5.0",
+		"x753-More_Suits-1.3.3",
+		"x753-Mimics-1.1.2",
+		"xCeezy-LethalEscape-0.7.4",
+		"Midge-PushCompany-1.2.0",
+		"Evaisa-HookGenPatcher-0.0.5",
+		"Evaisa-LethalLib-0.6.2",
+		"Evaisa-LethalThings-0.7.0",
+		"FlipMods-LetMeLookDown-1.0.1",
+		"Renegades-WalkieUse-1.2.3",
+		"RugbugRedfern-Skinwalkers-2.0.0",
+		"Earthquakes-EarthQuakes_Suit-1.0.0",
+		"HomelessGinger-MaskedEnemyOverhaul-2.0.1",
+		"TwinDimensionalProductions-DanceOff-1.0.8",
+		"Rune580-LethalCompany_InputUtils-0.4.0",
+		"sunnobunno-LandMineFartReverb-1.0.2",
+		"sunnobunno-YippeeMod-1.2.2",
+		"TheBeeTeam-LandmineFix-1.0.0"
+    ]
+}
